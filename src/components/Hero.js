@@ -12,7 +12,7 @@ export default function Hero() {
         <h1 className='hero-big-heading name-heading'>DINESHKUMAR T,</h1>
         <h1 className='hero-big-heading secondry-big-heading'>I'm a </h1>
         <p className='hero-desc'>
-          My name is Dineshkumar T, I've completed my degree on Bsc IT in 2022. I have been working as a software developer for the past 1+ years at Mitrahsoft private solution.I've good knowlege and work experience in the frontendand backend thechnology. In frontend technology, I've good knowlege in Javascript and React Js.In the backend technology, I've good knowlege in core Java, Spring boot, microservice and Node Js. In the database, I've good knowlege in postgresql and MongoDB.So far, I have been working three projects.
+          My name is Dineshkumar T, I've completed my degree on Bsc IT in 2022. I have been working as a software developer for the past 1+ years at Mitrahsoft private limited solution.I've good knowlege and work experience in the frontend and backend thechnology. In the frontend technology, I've good knowlege in Javascript and React Js.In the backend technology, I've good knowlege in core Java, Spring boot, microservice and Node Js. In the database, I've good knowlege in postgresql and MongoDB.So far, I have been working three projects.
         </p>
         <div className="photo-container">
           <img src={photo} alt="My Portfolio" className="portfolio-photo" />
