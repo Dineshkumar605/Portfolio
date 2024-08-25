@@ -19,7 +19,6 @@ function App() {
         <Hero />
         <TechStack />
         <Projects />
-        {/* <OtherProjectCards /> */}
         <Contact />
       </main>
       <footer>
